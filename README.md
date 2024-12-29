@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nikhil Mulay</h1>
-<h3 align="center">Hi I am currently studying second year Computer Engineering from Pune .</h3>
+<h3 align="center">Hi I am currently studying third year Computer Engineering from Pune .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmulay04&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmulay04" /> </p>
 
